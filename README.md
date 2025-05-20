@@ -85,8 +85,8 @@
 - Хранение данных в облаке (VK Cloud / Яндекс.Облако).
 - Kubernetes-контейнеризация.
 
-🔗 [Логическая архитектура (components)](diagrams/architecture_components.puml)  
-🔗 [Физическая архитектура (deployment)](diagrams/architecture_deployment.puml)
+🔗 [Логическая архитектура (components)](diagrams/architecture_components.png)  
+🔗 [Физическая архитектура (deployment)](diagrams/architecture_deployment.png)
 
 ### 3.2 Инфраструктура и масштабируемость
 
