@@ -113,27 +113,27 @@
 
 ### 4.1 Модели бизнес-процессов (до и после внедрения)
 
-- 🔗 [BPMN до внедрения](diagrams/bpmn_before.png)  
-- 🔗 [BPMN после внедрения](diagrams/bpmn_after.png)
+- 🔗 [BPMN до внедрения](diagrams/1.1.svg)  
+- 🔗 [BPMN после внедрения](diagrams/1.2.svg)
 
 ### 4.2 Диаграмма структуры данных (ER-диаграмма)
 
-- 🔗 [ER-диаграмма](diagrams/er.png)
+- 🔗 [ER-диаграмма](diagrams/2.svg)
 
 ### 4.3 Архитектура системы (структура + распределение данных)
 
-- 🔗 [Диаграмма компонентов (PlantUML)](diagrams/architecture_components.puml)  
-- 🔗 [Диаграмма развертывания (PlantUML)](diagrams/architecture_deployment.puml)
+- 🔗 [Диаграмма компонентов (PlantUML)](diagrams/3.1.svg)  
+- 🔗 [Диаграмма развертывания (PlantUML)](diagrams/3.2.svg)
 
 ### 4.4 UML-диаграммы структуры
 
-- 🔗 [Диаграмма компонентов](diagrams/uml_components.png)  
-- 🔗 [Диаграмма классов](diagrams/uml_classes.png)
+- 🔗 [Диаграмма компонентов](diagrams/4.1.svg)  
+- 🔗 [Диаграмма классов](diagrams/4.2.svg)
 
 ### 4.5 UML-диаграммы поведения
 
-- 🔗 [Диаграмма прецедентов (use case)](diagrams/use_case.png)  
-- 🔗 [Диаграмма активности (moderation flow)](diagrams/activity.png)
+- 🔗 [Диаграмма прецедентов (use case)](diagrams/5.1.svg)  
+- 🔗 [Диаграмма активности (moderation flow)](diagrams/5.2.svg)
 
 ---
 
